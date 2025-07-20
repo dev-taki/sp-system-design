@@ -1,5 +1,5 @@
 
-![Business Flow](business-flow-diagram.svg)
+![Business Flow](mermaid-ai-diagram-2025-07-20-043445.svg)
 
 # System Requirements & Cost Summary
 
