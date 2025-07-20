@@ -1,3 +1,6 @@
+
+![Business Flow](business-flow-diagram.svg)
+
 # System Requirements & Cost Summary
 
 ---
