@@ -1,3 +1,5 @@
+# A business desing for a singls app
+I created this diagram to illustrate the basic business flow. It will not affect the system’s speed or traffic.
 
 ![Business Flow](mermaid-ai-diagram-2025-07-20-043445.svg)
 
