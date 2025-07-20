@@ -1,7 +1,3 @@
-Sure! Here’s a **short system requirement summary** and **cost overview** based on your inputs:
-
----
-
 # System Requirements & Cost Summary
 
 ---
@@ -26,12 +22,8 @@ Sure! Here’s a **short system requirement summary** and **cost overview** base
 | Item                 | Cost (USD)        | Notes                                      |
 | -------------------- | ----------------- | ------------------------------------------ |
 | Xano Starter Plan    | \$29              | API & DB backend                           |
-| Vercel Hobby Plan    | Free              | Web hosting, limited usage                 |
+| Vercel Pro Plan      | \$20              | Web hosting (PWA)                          |
 | Firebase Push        | Free              | Up to free tier limits                     |
 | Payment Gateway Fees | Variable          | Per transaction fees (\~2.9% + \$0.30)     |
 | Domain               | Customer pays     | Depends on domain registrar                |
 | App Store Fees       | One-time / yearly | Google Play \$25 one-time, Apple \$99/year |
-
----
-
-Let me know if you want it even shorter or formatted for a specific audience!
