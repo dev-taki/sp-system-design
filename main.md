@@ -19,11 +19,11 @@
 
 ## Cost Summary (per month)
 
-| Item                 | Cost (USD)        | Notes                                      |
-| -------------------- | ----------------- | ------------------------------------------ |
-| Xano Starter Plan    | \$29              | API & DB backend                           |
-| Vercel Pro Plan      | \$20              | Web hosting (PWA)                          |
-| Firebase Push        | Free              | Up to free tier limits                     |
-| Payment Gateway Fees | Variable          | Per transaction fees (\~2.9% + \$0.30)     |
-| Domain               | Customer pays     | Depends on domain registrar                |
-| App Store Fees       | One-time / yearly | Google Play \$25 one-time, Apple \$99/year |
+| Item                 | Cost (USD)        | Notes                                                                       |
+| -------------------- | ----------------- | ----------------------------------------------------------------------------|
+| Xano Starter Plan    | \$29              | API, Database & DB backend UI                                               |
+| Vercel Pro Plan      | \$20              | Web hosting (PWA). All app in a single vercel plan.                         |
+| Firebase Push        | Free              | Up to free tier limits                                                      |
+| Payment Gateway Fees | Variable          | Per transaction fees (\~2.9% + \$0.30)                                      |
+| Domain               | Customer pays     | Depends on domain registrar                                                 |
+| App Store Fees       | One-time / yearly | Google Play \$25 one-time, Apple \$99/year                                  |
