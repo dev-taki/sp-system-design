@@ -8,10 +8,10 @@
 | ---------------------- | ------------------------------------------ | --------------------------------------- |
 | **Frontend**           | Web app (PWA) and Mobile app               | Next.js (PWA), Flutter (iOS/Android)    |
 | **Backend**            | Centralized backend with API and DB        | Xano Starter Plan                       |
-| **Hosting**            | Web app hosting                            | Vercel Hobby Plan (free)                |
+| **Hosting**            | Web app hosting                            | Vercel Pro Plan                         |
 | **Authentication**     | User signup/login, JWT token-based         | Xano built-in                           |
 | **Database**           | Store users, subscriptions, products, etc. | Xano’s DB                               |
-| **Push Notifications** | For app notifications                      | Firebase free tier                      |
+| **Push Notifications** | For app notifications                      | OneSignal free tier                     |
 | **Payments**           | Process subscription payments              | External payment gateway (Stripe, etc.) |
 | **Domain**             | Customer-provided custom domain            | Customer responsibility                 |
 
